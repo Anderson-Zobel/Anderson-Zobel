@@ -1,4 +1,9 @@
 ### Hi there 👋
+Web Devolopement Stundent | Trybe
+
+Web Development Fundamentals ✅
+Front-end Development at Trybe. ✅
+Currently learning Back-end Development at Trybe. :open_book:
 
 <!--
 **Anderson-Zobel/Anderson-Zobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
