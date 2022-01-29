@@ -4,7 +4,7 @@
 
 - ## Modules:
 - #### ✅ Complete: Web Development Fundamentals 
-- #### ✅ Complete Front-end Development. 
+- #### ✅ Complete: Front-end Development. 
 - #### :open_book: Currently: learning Back-end Development. 
 - #### :next_track_button: Next Module: Computer Science. 
  
