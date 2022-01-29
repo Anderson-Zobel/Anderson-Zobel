@@ -3,10 +3,10 @@
 <br>
 
 - ## Modules:
-- #### Web Development Fundamentals ✅
-- #### Front-end Development. ✅
-- #### Currently learning Back-end Development. :open_book:
-- #### Next Module: Computer Science. :next_track_button:
+- #### ✅ Complete: Web Development Fundamentals 
+- #### ✅ Complete Front-end Development. 
+- #### :open_book: Currently: learning Back-end Development. 
+- #### :next_track_button: Next Module: Computer Science. 
  
 <br>
 
