@@ -2,10 +2,10 @@
 ## Web Devolopement Stundent | Trybe
 <br>
 
-- ### Modules
+- ## Modules:
 - #### Web Development Fundamentals ✅
 - #### Front-end Development. ✅
-- #### Currently learning Back-end Development at Trybe. :open_book:
+- #### Currently learning Back-end Development. :open_book:
 - #### Next Module: Computer Science. :next_track_button:
  
 <br>
