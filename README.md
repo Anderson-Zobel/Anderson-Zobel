@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Zobel&show_icons=true&count_private=true&theme=radical) -->
 ## Language | Tools
 <div style="display: inline_block"><br>
-   <img align="center" alt="HTML" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-   <img align="center" alt="CSS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="HTML" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt="CSS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="JS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 <br>
