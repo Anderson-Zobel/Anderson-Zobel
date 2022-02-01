@@ -1,4 +1,6 @@
 # Anderson Zobel - Web Devolopement Student | Trybe
+- ### Inicio do Curso: Julho 2021
+- ### Termino do Curso: Julho 2022 
 
 ## About:
  &nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
