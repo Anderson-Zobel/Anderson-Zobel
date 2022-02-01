@@ -11,8 +11,8 @@ Estou extremamente grato pela oportunidade que surgiu em minha vida e honestamen
  &nbsp; Atualmente meu foco é terminar o curso da Trybe (1 ano de curso), mas já completei metade dele, sendo que já estou apto a trabalhar com Front-End.
 
 ## Modules:
-- #### ✅ Complete: Web Development Fundamentals.
-- #### ✅ Complete: Front-end Development. 
+- #### :heavy_check_mark: Complete: Web Development Fundamentals.
+- #### :heavy_check_mark: Complete: Front-end Development. 
 - #### :open_book: Currently: Learning Back-end Development. 
 - #### :next_track_button: Next Module: Computer Science. 
  
