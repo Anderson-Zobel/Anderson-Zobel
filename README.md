@@ -13,8 +13,8 @@ Estou extremamente grato pela oportunidade que surgiu em minha vida e honestamen
 ## Modules:
 - #### :heavy_check_mark: Complete: Web Development Fundamentals.
 - #### :heavy_check_mark: Complete: Front-end Development. 
-- #### :open_book: Currently: Learning Back-end Development. 
-- #### :next_track_button: Next Module: Computer Science. 
+- #### :green_circle: Currently: Learning Back-end Development. 
+- #### :green_square: Next Module: Computer Science. 
  
 <br>
 
