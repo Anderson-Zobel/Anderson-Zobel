@@ -1,6 +1,4 @@
 
-# Anderson Zobel - Web Devolopement Student | Trybe
-<br>
 
 ## About:
  &nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
