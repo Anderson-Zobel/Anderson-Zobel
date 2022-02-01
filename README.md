@@ -13,7 +13,7 @@ Estou extremamente grato pela oportunidade que surgiu em minha vida e honestamen
 ## Modules:
 - #### ✅ Complete: Web Development Fundamentals.
 - #### ✅ Complete: Front-end Development. 
-- #### :open_book: Currently: learning Back-end Development. 
+- #### :open_book: Currently: Learning Back-end Development. 
 - #### :next_track_button: Next Module: Computer Science. 
  
 <br>
