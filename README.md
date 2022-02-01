@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Zobel&show_icons=true&count_private=true&theme=radical)
+
+<br>
+
+  <a href="https://www.linkedin.com/in/anderson-zobel target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
