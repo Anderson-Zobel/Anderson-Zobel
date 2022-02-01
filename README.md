@@ -1,5 +1,5 @@
 
-## Web Devolopement Stundent | Trybe
+## Web Devolopement Student | Trybe
 <br>
 
 - ## Modules:
