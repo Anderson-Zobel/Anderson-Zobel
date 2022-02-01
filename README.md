@@ -1,5 +1,5 @@
 
-## Web Devolopement Student | Trybe
+# Web Devolopement Student | Trybe
 <br>
 
 ## About:
