@@ -4,11 +4,10 @@
 - ### Termino do Curso: Julho 2022 
 
 ## About:
- &nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
-Após de 2 anos na faculdade de Design (PUC-RS) e consequentemente ter que trabalhar com vendas de forma autônoma, surgiu a oportunidade em minha vida de entrar na Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. Sempre fui apaixonado por tecnologia, mesmo na faculdade de Design meu foco era migrar para área de UX/UI, porém ao decorrer desses últimos anos a faculdade não respondeu da forma que esperava e optei por seguir uma carreira mais sólida dentro da área de desenvolvimento / programação, que honestamente foi uma grande escolha em minha vida.
-Acredito que todo conhecimento é válido e não deixei de para trás tudo que aprendi na faculdade de Design, até porque vários pontos trabalhados se aplicam a área que atualmente estou focando (Desenvolvimento Web), principalmente na parte de Front-End e na gestão de projetos. 
-Estou extremamente grato pela oportunidade que surgiu em minha vida e honestamente amo o que faço dentro da área de Desenvolvimento Web. <br>
- &nbsp; Atualmente meu foco é terminar o curso da Trybe (1 ano de curso), mas já completei metade dele, sendo que já estou apto a trabalhar com Front-End.
+At the moment studying at Trybe. More than 1500 hours of training that covers fundamentals of web development, development, Front-end, Back-end, computer science, software engineering, agile methodologies and soft skills.
+
+
+No momento estudando na Trybe. Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 
 ## Modules:
 - #### :heavy_check_mark: Complete: Web Development Fundamentals.
