@@ -1,7 +1,7 @@
 # Anderson Zobel - Web Devolopement Student | [![Trybe](https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe")](https://www.betrybe.com/ "Trybe")
 
-- ### Course Start: Julho 2021
-- ### Course Finish: Julho 2022
+- ### Course Start____July 2021
+- ### Course Finish___July 2022
 
 ## About:
 
