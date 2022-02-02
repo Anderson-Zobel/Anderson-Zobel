@@ -5,11 +5,11 @@
 
 ## About:
 
- <img align="center" alt="UK-FLAG" width="30" src="https://www.svgrepo.com/show/134595/united-kingdom.svg" /> :<br>
+ <img align="center" alt="UK-FLAG" width="30" src="https://www.svgrepo.com/show/134595/united-kingdom.svg" /> <br>
 I'm a student at Trybe, a web development school that teaches programming, learning and working.
 The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
- <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> :<br>
+ <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> <br>
 Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. 
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
