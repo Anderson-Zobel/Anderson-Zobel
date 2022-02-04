@@ -6,12 +6,16 @@
 ## About:
 
  <img align="center" alt="UK-FLAG" width="30" src="https://www.svgrepo.com/show/134595/united-kingdom.svg" /> <br>
+Hello, my name is Anderson Almeida Zobel, often just called by my last name (Zobel).
 I'm a student at Trybe, a web development school that teaches programming, learning and working.
 The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+ Currently my focus is to finish the Trybe course (1 year of course), but I have already completed more than half, and I am already able to work with Front-End.
 
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> <br>
+Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
 Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar. 
-O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. 
+ Atualmente meu foco é terminar o curso da Trybe (1 ano de curso), mas já completei mais da metade, sendo que já estou apto a trabalhar com Front-End.
 
 ## Modules:
 - #### :heavy_check_mark: Complete: Web Development Fundamentals.
