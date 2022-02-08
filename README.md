@@ -46,6 +46,7 @@ Here are some ideas to get you started:
    <img align="center" alt="HTML" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="CSS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="JS" width="45"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="JS" width="45"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  />&nbsp;&nbsp;
    <img align="center" alt="REACT" width="45"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="REDUX" width="45"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="DOCKER" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
