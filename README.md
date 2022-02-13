@@ -52,7 +52,7 @@ Here are some ideas to get you started:
    <img align="center" alt="DOCKER" width="43"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="MySQL" width="43"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="VSCODE" width="43"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="NODEJS" width="43"  src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+   <img align="center" alt="NODEJS" width="43"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
  
 </div>
 <br>
