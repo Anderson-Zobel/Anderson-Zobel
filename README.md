@@ -54,7 +54,7 @@ Here are some ideas to get you started:
    <img align="center" alt="VSCODE" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="NODEJS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="EXPRESS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="TS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
+   <img align="center" alt="TS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
  
 
  
