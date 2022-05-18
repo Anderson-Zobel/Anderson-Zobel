@@ -2,6 +2,7 @@
 
 - ### Course Start____July 2021
 - ### Course Finish___July 2022
+- Status: Open to work
 
 ## About:
  <br>
