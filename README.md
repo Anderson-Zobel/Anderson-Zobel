@@ -4,18 +4,19 @@
 - ### Course Finish___July 2022
 
 ## About:
-
+ <br>
  <img align="center" alt="UK-FLAG" width="30" src="https://www.svgrepo.com/show/134595/united-kingdom.svg" /> 
  <br>
- <br>
+
  &nbsp;&nbsp; Hello, my name is Anderson Almeida Zobel, often just called by my last name (Zobel).
 I'm a student at Trybe, a web development school that teaches programming, learning and working.
 The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills. <br>
 &nbsp;&nbsp;  Currently my focus is to enter the job market preferably in a front-end position, but this is not a rule, I am able to work in any stack and also to learn what is necessary, one of the greatest virtues developed in this process is to always be fit to learn. In career transition here I find myself, after the beginning of the pandemic and with the adversities that occurred, I had to lock up my College of Designer (PUC-RS) in which I had a scholarship, due to the need to meet financial issues, I worked in this period as an autonomous salesman of an ice cream brand, it was a very healthy period for the development of soft-skills, since in addition to having to open points of sale, it was always about dealing with people. In this process, the season transition took place and business became difficult to continue, there was no intention of going back to college despite loving the area of ​​Design, other reasons kept me away from this academic environment, that was when the Trybe programming school appeared in my life , through a friend, I was impressed with what they offered, I always loved technology, even within design my focus was to go to the digital area and work with UI/UX, I found myself in this area that I currently live. Every development culture is something fascinating, from the pillars of a language to designing a solution for people, in the end it's very much what Dev sums up, solving problems is the fuel for those who love the area.
 
+ <br>
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> 
  <br>
- <br>
+
  &nbsp;&nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
 Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar.
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.<br>
