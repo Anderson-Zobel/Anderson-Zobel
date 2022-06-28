@@ -27,8 +27,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ## Modules:
 - #### :heavy_check_mark: Complete: Web Development Fundamentals.
 - #### :heavy_check_mark: Complete: Front-end Development. 
-- #### :heavy_check_mark: Currently: Learning Back-end Development. 
-- #### :green_square: Next Module: Computer Science. 
+- #### :heavy_check_mark: Complete: Back-end Development. 
+- #### :green_square: Currently: Computer Science. 
  
 <br>
 
