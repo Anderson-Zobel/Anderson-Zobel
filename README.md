@@ -16,11 +16,8 @@ The program has more than 1,500 hours of classroom and online classes and covers
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> 
  <br>
 
- &nbsp;&nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel).
-Sou estudante da Trybe, escola de desenvolvimento Web que ensina a programar, a aprender e a trabalhar.
-O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.<br>
- &nbsp;&nbsp;Atualmente meu foco é ingressar no mercado de trabalho como desenvolvedor web, estou apto ma atuar em qualquer stack e também a aprender o que for necessário, uma das maiores virtudes desenvolvidas nesse processo é estar sempre apto aprender . 
- 
+ &nbsp;&nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel), atualmente meu foco é ingressar no mercado de trabalho como desenvolvedor web, estou apto ma atuar em qualquer stack e também a aprender o que for necessário, uma das maiores virtudes desenvolvidas nesse processo é estar sempre apto aprender. <br>
+
 <!--  //Em transição de carreira aqui me encontro, após o inicio da pandemia e com as adversidades que ocorreram tive que trancar a minha faculdade de Designer (PUC-RS) na qual tinha bolsa, pela necessidade de suprir questões financeiras trabalhei nesse período como vendedor autônomo, foi um período muito saudável para o desenvolvimento de soft-skills, visto que além de abrir pontos de vendas, sempre se tratou resumidamente em lidar com pessoas. Nesse processo, a transição de estação ocorreu e os negócios ficaram complicados de continuar, não havia pretensão de voltar a faculdade apesar de amar a área de Design, outros motivos me afastaram desse meio acadêmico, foi quando a escola de programação Trybe apareceu em minha vida, através de um amigo, fiquei impressionado com o que eles ofereciam, sempre amei tecnologia, até mesmo dentro do design meu foco era ir para área digital e trabalhar com UI/UX, me encontrei nessa área que atualmente vivo. Toda cultura de desenvolvimento é algo fascinante, desde os pilares de uma linguagem até projetar uma solução para as pessoas, no final é muito o que resume o Dev, solucionar problemas é o combustível para quem ama a área. -->
 
 
