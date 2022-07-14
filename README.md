@@ -16,7 +16,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> 
  <br>
 
- &nbsp;&nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel), sou desenvolvedor web.<br>
+ &nbsp;&nbsp; Olá me chamo Anderson Almeida Zobel, muitas vezes só chamado pelo meu último nome (Zobel), sou desenvolvedor web fullstack.<br>
  Logo abaixo você vai encontrar alguns portfólios relacionado a projetos feitos na Trybe, desafios ou pessoal, fique a vontade de entrar em contato comigo via Linkedin (ícone interativo logo abaixo)
  
 
