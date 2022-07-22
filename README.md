@@ -64,7 +64,7 @@ Here are some ideas to get you started:
    <img align="center" alt="TS" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="SEQUELIZE" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />&nbsp;&nbsp;
    <img align="center" alt="MONGODB" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
-   <img align="center" alt="PYTHON" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"" />&nbsp;&nbsp;
+   <img align="center" alt="PYTHON" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>&nbsp;&nbsp;
  
 
 </div>
