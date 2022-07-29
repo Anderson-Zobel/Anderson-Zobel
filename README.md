@@ -1,6 +1,6 @@
 # Anderson Zobel - Desenvolvedor Web Fullstack | [![Trybe](https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe")](https://www.betrybe.com/ "Trybe")
 
-- ### Status: Open to work :green_circle:
+- ### Status: Procurando emprego :green_circle:
 
 ## About:
 <!--  <br>
@@ -24,10 +24,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 
 ## Modules:
-- #### :heavy_check_mark: Complete: Web Development Fundamentals.
-- #### :heavy_check_mark: Complete: Front-end Development. 
-- #### :heavy_check_mark: Complete: Back-end Development. 
-- #### :green_circle: Currently: Learning Computer Science. 
+- #### :heavy_check_mark: Completo: Fundamentos do Desenvolvimento Web.
+- #### :heavy_check_mark: Completo: Desenvolvimento Front-end. 
+- #### :heavy_check_mark: Completo: Desenvolvimento Back-end. 
+- #### :green_circle: atualmente: Aprendendo Computer Science. 
  
 <br>
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -->
 
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Zobel&show_icons=true&count_private=true&theme=radical) -->
-## Languages | Tools
+## Linguagens | Ferramentas
 <div style="display: inline_block" align="center"><br>
  
    <img align="center" alt="HTML" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
