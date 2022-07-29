@@ -2,7 +2,7 @@
 
 - ### Status: Procurando emprego :green_circle:
 
-## About:
+## Sobre:
 <!--  <br>
  <img align="center" alt="UK-FLAG" width="30" src="https://www.svgrepo.com/show/134595/united-kingdom.svg" /> 
  <br>
