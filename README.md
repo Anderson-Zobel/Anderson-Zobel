@@ -1,6 +1,8 @@
 # Anderson Zobel - Desenvolvedor Web Fullstack | [![Trybe](https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg "Trybe")](https://www.betrybe.com/ "Trybe")
 
-- ### Status: Procurando emprego :green_circle:
+- ### Status: Working at Algoritmus <img align="center" alt="algoritmus" width="40" src="https://avatars.githubusercontent.com/u/57408292?s=200&v=4" /> 
+
+
 
 ## Sobre:
 <!--  <br>
