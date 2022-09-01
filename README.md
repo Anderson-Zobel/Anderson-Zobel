@@ -29,7 +29,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - #### :heavy_check_mark: Completo: Fundamentos do Desenvolvimento Web.
 - #### :heavy_check_mark: Completo: Desenvolvimento Front-end. 
 - #### :heavy_check_mark: Completo: Desenvolvimento Back-end. 
-- #### :heavy_check_mark: Completo: Aprendendo Computer Science. 
+- #### :heavy_check_mark: Completo: Computer Science. 
  
 <br>
 
