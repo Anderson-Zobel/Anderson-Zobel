@@ -25,7 +25,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 <!--  //Em transição de carreira aqui me encontro, após o inicio da pandemia e com as adversidades que ocorreram tive que trancar a minha faculdade de Designer (PUC-RS) na qual tinha bolsa, pela necessidade de suprir questões financeiras trabalhei nesse período como vendedor autônomo, foi um período muito saudável para o desenvolvimento de soft-skills, visto que além de abrir pontos de vendas, sempre se tratou resumidamente em lidar com pessoas. Nesse processo, a transição de estação ocorreu e os negócios ficaram complicados de continuar, não havia pretensão de voltar a faculdade apesar de amar a área de Design, outros motivos me afastaram desse meio acadêmico, foi quando a escola de programação Trybe apareceu em minha vida, através de um amigo, fiquei impressionado com o que eles ofereciam, sempre amei tecnologia, até mesmo dentro do design meu foco era ir para área digital e trabalhar com UI/UX, me encontrei nessa área que atualmente vivo. Toda cultura de desenvolvimento é algo fascinante, desde os pilares de uma linguagem até projetar uma solução para as pessoas, no final é muito o que resume o Dev, solucionar problemas é o combustível para quem ama a área. -->
 
 
-## Conhecimento:
+## Conhecimento - Iniciado na Trybe:
 - #### :heavy_check_mark: Completo: Fundamentos do Desenvolvimento Web.
 - #### :heavy_check_mark: Completo: Desenvolvimento Front-end. 
 - #### :heavy_check_mark: Completo: Desenvolvimento Back-end. 
