@@ -1,6 +1,6 @@
 # Anderson Zobel - Front-end Developer 
 
-- ### Status: Working at Algoritmus <img align="center" alt="algoritmus" width="40" src="https://avatars.githubusercontent.com/u/57408292?s=200&v=4" /> 
+- ### Status: Looking for work/job 
 
 
 
