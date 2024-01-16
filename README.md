@@ -26,7 +26,14 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 
 ## Portfólio do meu último trabalho:
-<img align="center" alt="HTML" width="45" src="https://www.svgrepo.com/show/13671/youtube.svg" />
+<a href="https://youtu.be/vf0W1QztpVE" target="_blank">
+ <img 
+  align="center" 
+  alt="YOUTUBE" 
+  width="45" 
+  src="https://www.svgrepo.com/show/13671/youtube.svg"
+  />
+</a>
 
  
 <br>
