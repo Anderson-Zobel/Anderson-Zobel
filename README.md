@@ -1,4 +1,4 @@
-# Anderson Zobel - Front-end Developer 
+# Anderson Zobel - Developer 
 
 - ### Status: Looking for work/job 
 
