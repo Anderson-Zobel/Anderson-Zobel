@@ -14,11 +14,13 @@ I'm a student at Trybe, a web development school that teaches programming, learn
 The program has more than 1,500 hours of classroom and online classes and covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills. <br>
 &nbsp;&nbsp; Currently my focus is to enter the job market as a web developer, i am able to work in any stack and also to learn what is necessary, one of the greatest virtues developed in this process is to always be able to learn. In career transition here I find myself, after the beginning of the pandemic and with the adversities that occurred, I had to lock up my College of Designer (PUC-RS) in which I had a scholarship, due to the need to meet financial issues, I worked in this period as an autonomous salesman of an ice cream brand, it was a very healthy period for the development of soft-skills, since in addition to having to open points of sale, it was always about dealing with people. In this process, the season transition took place and business became difficult to continue, there was no intention of going back to college despite loving the area of ​​Design, other reasons kept me away from this academic environment, that was when the Trybe programming school appeared in my life , through a friend, I was impressed with what they offered, I always loved technology, even within design my focus was to go to the digital area and work with UI/UX, I found myself in this area that I currently live. Every development culture is something fascinating, from the pillars of a language to designing a solution for people, in the end it's very much what Dev sums up, solving problems is the fuel for those who love the area. -->
 
+<!--
  <br>
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> 
  <br>
 
  &nbsp;&nbsp; Desenvolvedor com formação Full stack, mas com atuação profissional no desenvolvimento Front-end, a possibilidade de entregar soluções independente da ferramenta é o que me movimenta e me faz gostar tanto dessa área.<br>
+ -->
 
  
 
