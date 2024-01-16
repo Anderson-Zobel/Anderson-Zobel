@@ -18,9 +18,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
  <br>
  <img align="center" alt="BRAZIL-FLAG" width="30" src="https://www.svgrepo.com/show/137602/brazil.svg" /> 
  <br>
+  -->
 
  &nbsp;&nbsp; Desenvolvedor com formação Full stack, mas com atuação profissional no desenvolvimento Front-end, a possibilidade de entregar soluções independente da ferramenta é o que me movimenta e me faz gostar tanto dessa área.<br>
- -->
+
 
  
 
