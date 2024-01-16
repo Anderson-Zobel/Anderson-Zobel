@@ -26,7 +26,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 
 ## Portfólio do meu último trabalho:
-<a href="https://youtu.be/vf0W1QztpVE" target="_blank" style="text-decoration: none;">
+<a href="https://youtu.be/vf0W1QztpVE" target="_blank" style="text-decoration: none">
  <img 
   align="center" 
   alt="YOUTUBE" 
